@@ -1,6 +1,6 @@
 ## Hi, I’m Reshma 👋
 
-I’m a developer who enjoys building things that actually make sense (and sometimes fixing things that don’t 😄)
+I’m a developer who enjoys building things that actually make sense (and sometimes fixing things that don’t 😄) and I usually end up exploring, experimenting, and figuring things out my own way -- occasionally consulting my AI assistants when needed 🤖
 
 ### 🛠️ Tech Stack
 
