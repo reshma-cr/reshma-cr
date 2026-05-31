@@ -9,9 +9,8 @@ I’m a developer who enjoys building things that actually make sense (and somet
 * 🌐 Frontend: HTML, CSS, JavaScript
 * 🗄️ Database: SQL
 
-### 🚧 What’s coming next
+### 🚧 My Projects
 
-I’m currently preparing to build and share projects here soon.
 This space is a work in progress — just like me.
 
 ### ✨ A little about me
